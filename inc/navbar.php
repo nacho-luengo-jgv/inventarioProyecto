@@ -28,9 +28,9 @@
             <a class="navbar-link">Categorias</a>
 
             <div class="navbar-dropdown">
-                <a class="navbar-item">Nueva</a>
-                <a class="navbar-item">Lista</a>
-                <a class="navbar-item">Buscar</a>
+                <a class="navbar-item" href="index.php?vista=category_new">Nueva</a>
+                <a class="navbar-item" href="index.php?vista=category_list">Lista</a>
+                <a class="navbar-item" href="index.php?vista=category_search">Buscar</a>
             </div>
         </div>
 
@@ -38,10 +38,10 @@
             <a class="navbar-link">Productos</a>
 
             <div class="navbar-dropdown">
-                <a class="navbar-item">Nuevo</a>
-                <a class="navbar-item">Lista</a>
-                <a class="navbar-item">Por categorias</a>
-                <a class="navbar-item">Buscar</a>
+                <a class="navbar-item" href="index.php?vista=product_new">Nuevo</a>
+                <a class="navbar-item" href="index.php?vista=product_list">Lista</a>
+                <a class="navbar-item" href="index.php?vista=product_category">Por categorias</a>
+                <a class="navbar-item" href="index.php?vista=product_search">Buscar</a>
             </div>
         </div>
 
