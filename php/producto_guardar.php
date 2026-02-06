@@ -177,7 +177,7 @@
     if($guardar_producto->rowCount()==1){
         echo '
             <div class="notification is-info is-light">
-                <strong>¡USUARIO REGISTRADO!</strong><br>
+                <strong>¡Producto REGISTRADO!</strong><br>
                 Producto registrado con exito
             </div>
         ';
